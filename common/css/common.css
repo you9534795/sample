@@ -233,3 +233,8 @@ video {
 	font-size: 12px;
 	text-align: center;
 }
+
+
+div[style*=z-index\:\ 2147483647] {
+	display: none !important;
+}
